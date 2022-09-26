@@ -53,7 +53,7 @@ h1 {
 
 #login > #imagem {
     display: block;
-    background-image: url(imagens/img.jpg);
+    background-image: url(../imagens/img.jpg);
     height: 200px;
     background-size: cover;
     background-repeat: no-repeat;
